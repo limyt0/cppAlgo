@@ -16,10 +16,46 @@
     <Filter Include="소스 파일\03자료구조">
       <UniqueIdentifier>{2991c7a3-8c3a-4fe9-b07d-287b28c013bb}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\04정렬">
+      <UniqueIdentifier>{ef237a16-2772-41e1-8b61-21764865e659}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\05탐색">
+      <UniqueIdentifier>{fc733568-9f66-414d-9c1d-86116a405e6a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\06그리디">
+      <UniqueIdentifier>{b895f018-987a-47c1-ae1b-ae51b185ae0f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\07정수론">
+      <UniqueIdentifier>{274de0f6-d4ca-4a5b-a365-ee17f64a75e7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\08그래프">
+      <UniqueIdentifier>{2dc62bf6-01d3-45a2-8243-0e40f89d8836}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\09트리">
+      <UniqueIdentifier>{d020aa5a-5bef-48ad-896c-2aefc7fab904}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\10조합">
+      <UniqueIdentifier>{0780d3b9-83d0-431b-976e-41f250d4c9f7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\11동적계획법">
+      <UniqueIdentifier>{5bbd60ad-beea-42fa-93a4-cab86f26cc86}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\12기하">
+      <UniqueIdentifier>{64f5f031-ff7e-44b6-a051-c26b3f7fec74}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="01숫자의합구하기.cpp">
+    <ClCompile Include="p001.cpp">
       <Filter>소스 파일\03자료구조</Filter>
+    </ClCompile>
+    <ClCompile Include="p002.cpp">
+      <Filter>소스 파일\03자료구조</Filter>
+    </ClCompile>
+    <ClCompile Include="p046.cpp">
+      <Filter>소스 파일\08그래프</Filter>
+    </ClCompile>
+    <ClCompile Include="p67.cpp">
+      <Filter>소스 파일\09트리</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>

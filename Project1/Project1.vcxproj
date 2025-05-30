@@ -127,7 +127,10 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="01숫자의합구하기.cpp" />
+    <ClCompile Include="p001.cpp" />
+    <ClCompile Include="p002.cpp" />
+    <ClCompile Include="p046.cpp" />
+    <ClCompile Include="p67.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
