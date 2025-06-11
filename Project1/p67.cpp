@@ -1,7 +1,7 @@
 #include <iostream>
 #include <vector>
 using namespace std;
-//p11725 Æ®¸®ÀÇ ºÎ¸ğ Ã£±â
+//p11725 íŠ¸ë¦¬ì˜ ë¶€ëª¨ ì°¾ê¸°
 static int N;
 static vector<int> answer;
 static vector<bool> visited;

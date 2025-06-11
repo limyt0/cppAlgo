@@ -1,6 +1,6 @@
 #include <iostream>
 using namespace std;
-//11720 ¼ıÀÚÀÇ ÇÕ
+//11720 ìˆ«ìì˜ í•©
 int main01() {
 	int N = 0;
 	string numbers;

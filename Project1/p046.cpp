@@ -9,7 +9,7 @@ void BFS(int node);
 static vector<vector<int>> A;
 static vector<int> answer;
 static vector<int> visited;
-//p18352 Æ¯Á¤°Å¸® µµ½Ã Ã£±â
+//p18352 íŠ¹ì • ê±°ë¦¬ì˜ ë„ì‹œ ì°¾ê¸°
 int main46() {
 	ios::sync_with_stdio(false);
 	cin.tie(NULL);
