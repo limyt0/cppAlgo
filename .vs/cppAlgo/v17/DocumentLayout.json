@@ -3,8 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\dam45\\source\\repos\\cppAlgo\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B1282A23-DA9C-4714-918A-12DAFF2CB855}|Project1\\Project1.vcxproj|C:\\Users\\dam45\\source\\repos\\cppAlgo\\Project1\\p67.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{B1282A23-DA9C-4714-918A-12DAFF2CB855}|Project1\\Project1.vcxproj|solutionrelative:Project1\\p67.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{B1282A23-DA9C-4714-918A-12DAFF2CB855}|Project1\\Project1.vcxproj|C:\\Users\\dam45\\source\\repos\\cppAlgo\\Project1\\p047.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B1282A23-DA9C-4714-918A-12DAFF2CB855}|Project1\\Project1.vcxproj|solutionrelative:Project1\\p047.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1282A23-DA9C-4714-918A-12DAFF2CB855}|Project1\\Project1.vcxproj|C:\\Users\\dam45\\source\\repos\\cppAlgo\\Project1\\p046.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B1282A23-DA9C-4714-918A-12DAFF2CB855}|Project1\\Project1.vcxproj|solutionrelative:Project1\\p046.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -19,14 +23,27 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "p67.cpp",
-              "DocumentMoniker": "C:\\Users\\dam45\\source\\repos\\cppAlgo\\Project1\\p67.cpp",
-              "RelativeDocumentMoniker": "Project1\\p67.cpp",
-              "ToolTip": "C:\\Users\\dam45\\source\\repos\\cppAlgo\\Project1\\p67.cpp",
-              "RelativeToolTip": "Project1\\p67.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAABAAAA",
+              "Title": "p047.cpp",
+              "DocumentMoniker": "C:\\Users\\dam45\\source\\repos\\cppAlgo\\Project1\\p047.cpp",
+              "RelativeDocumentMoniker": "Project1\\p047.cpp",
+              "ToolTip": "C:\\Users\\dam45\\source\\repos\\cppAlgo\\Project1\\p047.cpp",
+              "RelativeToolTip": "Project1\\p047.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAC0AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-05-30T01:05:55.81Z",
+              "WhenOpened": "2025-06-13T07:46:02.286Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "p046.cpp",
+              "DocumentMoniker": "C:\\Users\\dam45\\source\\repos\\cppAlgo\\Project1\\p046.cpp",
+              "RelativeDocumentMoniker": "Project1\\p046.cpp",
+              "ToolTip": "C:\\Users\\dam45\\source\\repos\\cppAlgo\\Project1\\p046.cpp",
+              "RelativeToolTip": "Project1\\p046.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-06-13T07:37:10.705Z",
               "EditorCaption": ""
             }
           ]

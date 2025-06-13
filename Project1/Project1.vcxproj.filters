@@ -48,14 +48,14 @@
     <ClCompile Include="p001.cpp">
       <Filter>소스 파일\03자료구조</Filter>
     </ClCompile>
-    <ClCompile Include="p002.cpp">
-      <Filter>소스 파일\03자료구조</Filter>
-    </ClCompile>
     <ClCompile Include="p046.cpp">
       <Filter>소스 파일\08그래프</Filter>
     </ClCompile>
-    <ClCompile Include="p67.cpp">
+    <ClCompile Include="p067.cpp">
       <Filter>소스 파일\09트리</Filter>
+    </ClCompile>
+    <ClCompile Include="p047.cpp">
+      <Filter>소스 파일\08그래프</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
