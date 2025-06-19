@@ -32,7 +32,11 @@ int main() {
 
 	if (deleteNode == root) {
 		cout << 0 << "\n";
-	}	
+	}
+	else {
+		DFS(root);
+		cout << answer << "\n";
+	}
 }
 
 void DFS(int number) { 
