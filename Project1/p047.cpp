@@ -10,7 +10,7 @@ static vector<int> answer;
 
 void BFS(int);
 //p1325
-int main() {
+int main47() {
 	ios::sync_with_stdio(false);
 	cin.tie(NULL);
 	cout.tie(NULL);

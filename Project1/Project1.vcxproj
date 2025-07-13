@@ -130,6 +130,7 @@
     <ClCompile Include="p001.cpp" />
     <ClCompile Include="p046.cpp" />
     <ClCompile Include="p047.cpp" />
+    <ClCompile Include="p048.cpp" />
     <ClCompile Include="p067.cpp" />
     <ClCompile Include="p068.cpp" />
   </ItemGroup>

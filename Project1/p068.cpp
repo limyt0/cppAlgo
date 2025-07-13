@@ -39,7 +39,7 @@ int main() {
 	}
 }
 
-void DFS(int number) { 
+void DFS(int number) {
 	visited[number] = true;
 	int cNode = 0;
 

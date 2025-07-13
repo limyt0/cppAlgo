@@ -15,12 +15,12 @@ int main46() {
 	cin.tie(NULL);
 	cout.tie(NULL);
 
-	long N, M, K, X;
+	long N , M , K , X;
 	cin >> N >> M >> K >> X;
 	A.resize(N + 1);
 
 	for (int i = 0; i < M; i++) {
-		int S, E;
+		int S , E;
 		cin >> S >> E;
 		A[S].push_back(E);
 	}
@@ -28,7 +28,7 @@ int main46() {
 	for (int i = 0; i <= N; i++) {
 		visited[i] = -1;
 	}
-	
+
 	BFS(X);
 
 	for (int i = 0; i <= N; i++) {
@@ -40,7 +40,7 @@ int main46() {
 		cout << -1 << "\n";
 	}
 	else {
-		sort(answer.begin(), answer.end());
+		sort(answer.begin() , answer.end());
 		for (int temp : answer) {
 			cout << temp << "\n";
 		}
@@ -66,4 +66,3 @@ void BFS(int node) {
 	}
 }
 
- 

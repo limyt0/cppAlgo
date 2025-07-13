@@ -19,7 +19,7 @@ int main67() {
 	answer.resize(N + 1);
 
 	for (int i = 1; i < N; i++) {
-		int n1, n2;
+		int n1 , n2;
 		cin >> n1 >> n2;
 		tree[n1].push_back(n2);
 		tree[n2].push_back(n1);
