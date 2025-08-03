@@ -128,9 +128,11 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="p001.cpp" />
+    <ClCompile Include="p002.cpp" />
     <ClCompile Include="p046.cpp" />
     <ClCompile Include="p047.cpp" />
     <ClCompile Include="p048.cpp" />
+    <ClCompile Include="p058.cpp" />
     <ClCompile Include="p067.cpp" />
     <ClCompile Include="p068.cpp" />
     <ClCompile Include="p049.cpp" />

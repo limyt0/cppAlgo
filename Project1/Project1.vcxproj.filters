@@ -66,5 +66,11 @@
     <ClCompile Include="p049.cpp">
       <Filter>소스 파일\08그래프</Filter>
     </ClCompile>
+    <ClCompile Include="p058.cpp">
+      <Filter>소스 파일\08그래프</Filter>
+    </ClCompile>
+    <ClCompile Include="p002.cpp">
+      <Filter>소스 파일\03자료구조</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
