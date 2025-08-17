@@ -78,5 +78,8 @@
     <ClCompile Include="p004.cpp">
       <Filter>소스 파일\03자료구조</Filter>
     </ClCompile>
+    <ClCompile Include="p005.cpp">
+      <Filter>소스 파일\03자료구조</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
