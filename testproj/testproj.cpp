@@ -1,8 +1,9 @@
 ﻿#include <iostream>
+#include <vector>
 
 using namespace std;
 
-int A[1025][1025];
+
 int main() {
 	ios::sync_with_stdio(false);
 	cin.tie(NULL);
@@ -10,22 +11,27 @@ int main() {
 
 	int N, M;
 	cin >> N >> M;
-	for (int i = 0; i <= N; i++) {
-		for (int j = 0; j <= N; j++) {
-			A[i][j] = 0;
-			if (i != 0 && j != 0) {
-				int temp;
-				cin >> temp;
-				A[i][j] = A[i - 1][j] + A[i][j - 1] - A[i - 1][j - 1] + temp;
-			}
-		}
-	}
 
-	for (int i = 0; i < M; i++) {
-		int x1, x2, y1, y2;
-		cin >> x1 >> y1 >> x2 >> y2;
+	vector<long> S(N, 0);
+	vector<long> C(M, 0);
 
-		int result = A[x2][y2] - A[x1 - 1][y2] - A[x2][y1 - 1] + A[x1 - 1][y1 - 1];
-		cout << result << "\n";
+	long sum = 0;
+	int count = 0;
+	
+	for (int i = 0; i < N; i++) {
+		int tmp;
+		cin >> tmp;
+		sum += tmp;
+		S[i] = sum % M;
+		//C[S[i]]++;
 	}
+	
+	
+	
+
+
+	cout << count << endl;
+
+
+
 }
