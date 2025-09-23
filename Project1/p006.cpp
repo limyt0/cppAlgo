@@ -1,4 +1,4 @@
-﻿#include<iostream>
+#include<iostream>
 
 using namespace std;
 
@@ -13,7 +13,7 @@ int main() {
 	int start = 1;
 	int end = 1;
 	int count = 0;
-	while (end <= N ) {
+	while (end <= N) {
 		int sum = 0;
 		for (int i = start; i <= end; i++) {
 			sum += i;
