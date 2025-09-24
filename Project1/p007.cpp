@@ -1,4 +1,4 @@
-﻿#include <iostream>
+#include <iostream>
 #include <vector>
 #include <algorithm>
 
@@ -12,16 +12,16 @@ int main() {
 	int N;
 	int M;
 	cin >> N >> M;
-	vector<int> A(N, 0);
+	vector<int> A(N , 0);
 	for (int i = 0; i < N; i++) {
 		cin >> A[i];
 	}
-
-	sort(A.begin(), A.end());
+	
+	sort(A.begin() , A.end());
 	int start = 0;
-	int end = N - 1;
+	int end = N -1;
 	int count = 0;
-	while (start < end) {
+	while (start<end) {
 		int sum = A[start] + A[end];
 		if (sum == M) {
 			count++;
