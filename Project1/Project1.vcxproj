@@ -137,6 +137,7 @@
     <ClCompile Include="p008.cpp" />
     <ClCompile Include="p009.cpp" />
     <ClCompile Include="p010.cpp" />
+    <ClCompile Include="p011.cpp" />
     <ClCompile Include="p046.cpp" />
     <ClCompile Include="p047.cpp" />
     <ClCompile Include="p048.cpp" />
